@@ -40,7 +40,7 @@
   "cartExsam": [
     {
       "id": 1,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "img": "./img/Rectangle%20217.png",
       "month": "Fevral",
       "allExsam": "Ümumi sınaq",
       "titleBootm": "11-ci sinif imtahan 1",
@@ -48,7 +48,7 @@
     },
     {
       "id": 2,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "img": "./img/Rectangle%20217.png",
       "month": "Mart",
       "allExsam": "Ümumi sınaq",
       "titleBootm": "11-ci sinif imtahan 2",
@@ -56,7 +56,7 @@
     },
     {
       "id": 3,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "img": "./img/Rectangle%20217.png",
       "month": "Aprel",
       "allExsam": "Ümumi sınaq",
       "titleBootm": "10-ci sinif imtahan 3",
@@ -64,7 +64,7 @@
     },
     {
       "id": 4,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "img": "./img/Rectangle%20217.png",
       "month": "May",
       "allExsam": "Ümumi sınaq",
       "titleBootm": "9-ci sinif imtahan 4",
@@ -74,7 +74,7 @@
   "graduatesChild": [
     {
       "id": 1,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20203.png",
+      "img": "./img/Rectangle%20203.png",
       "allExsam": "Bakı Dövlət Universiteti",
       "titleBootm": "Marvin McKinney",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
@@ -82,7 +82,7 @@
     },
     {
       "id": 2,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20203.png",
+      "img": "./img/Rectangle%20203.png",
       "month": "Fevral",
       "allExsam": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
       "titleBootm": "Marvin McKin",
@@ -91,7 +91,7 @@
     },
     {
       "id": 3,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20203.png",
+      "img": "./img/Rectangle%20203.png",
       "allExsam": "Azərbaycan Dövlət İqtisad Universiteti",
       "titleBootm": "Marvin Mcted",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
@@ -99,7 +99,7 @@
     },
     {
       "id": 4,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20203.png",
+      "img": "./img/Rectangle%20203.png",
       "allExsam": "Azərbaycan Memarlıq və İnşaat Universiteti",
       "titleBootm": "Marvin Michel",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
@@ -109,7 +109,7 @@
   "cartsNews": [
     {
       "id": 1,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20159.png",
+      "img": "./img/Rectangle%20159.png",
       "allExsam": "Dövlət İmtahan Mərkəzi tərəfind...",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
       "date": "20",
@@ -117,7 +117,7 @@
     },
     {
       "id": 2,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20160.png",
+      "img": "./img/Rectangle%20160.png",
       "allExsam": "Dövlət İmtahan Mərkəzi tərəfind...",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
       "date": 20,
@@ -125,7 +125,7 @@
     },
     {
       "id": 3,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20161.png",
+      "img": "./img/Rectangle%20161.png",
       "allExsam": "Dövlət İmtahan Mərkəzi tərəfind...",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
       "date": 20,
@@ -133,7 +133,7 @@
     },
     {
       "id": 4,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20162%20(1).png",
+      "img": "./img/Rectangle%20162%20(1).png",
       "allExsam": "Dövlət İmtahan Mərkəzi tərəfind...",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
       "date": "20",

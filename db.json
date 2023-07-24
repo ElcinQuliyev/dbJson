@@ -2,7 +2,7 @@
   "cartCourses": [
     {
       "id": 1,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "img": "./img/Rectangle%20217.png",
       "starIcon": "⭐⭐",
       "hour": "5:07:15",
       "elipName": "Axundova",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "img": "./img/Rectangle%20217.png",
       "starIcon": "⭐⭐⭐⭐",
       "hour": "5:07:15",
       "elipName": "Axundova",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20174.png",
+      "img": "./img/Rectangle%20174.png",
       "starIcon": "⭐⭐⭐⭐",
       "hour": "5:07:15",
       "elipName": "Axundova",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "img": "http://127.0.0.1:5501/img/Rectangle%20162.png",
+      "img": "./img/Rectangle%20162.png",
       "starIcon": "⭐⭐⭐",
       "hour": "5:07:15",
       "elipName": "Axundova",

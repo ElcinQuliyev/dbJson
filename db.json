@@ -1,0 +1,143 @@
+{
+  "cartCourses": [
+    {
+      "id": 1,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "starIcon": "⭐⭐",
+      "hour": "5:07:15",
+      "elipName": "Axundova",
+      "titleBootm": "Funksiyalar və Qrafiklər",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 2,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "starIcon": "⭐⭐⭐⭐",
+      "hour": "5:07:15",
+      "elipName": "Axundova",
+      "titleBootm": "Funksiyalar və Qrafiklər",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 3,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20174.png",
+      "starIcon": "⭐⭐⭐⭐",
+      "hour": "5:07:15",
+      "elipName": "Axundova",
+      "titleBootm": "Funksiyalar və Qrafiklər",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 4,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20162.png",
+      "starIcon": "⭐⭐⭐",
+      "hour": "5:07:15",
+      "elipName": "Axundova",
+      "titleBootm": "Funksiyalar və Qrafiklər",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    }
+  ],
+  "cartExsam": [
+    {
+      "id": 1,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "month": "Fevral",
+      "allExsam": "Ümumi sınaq",
+      "titleBootm": "11-ci sinif imtahan 1",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 2,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "month": "Mart",
+      "allExsam": "Ümumi sınaq",
+      "titleBootm": "11-ci sinif imtahan 2",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 3,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "month": "Aprel",
+      "allExsam": "Ümumi sınaq",
+      "titleBootm": "10-ci sinif imtahan 3",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 4,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20217.png",
+      "month": "May",
+      "allExsam": "Ümumi sınaq",
+      "titleBootm": "9-ci sinif imtahan 4",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    }
+  ],
+  "graduatesChild": [
+    {
+      "id": 1,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20203.png",
+      "allExsam": "Bakı Dövlət Universiteti",
+      "titleBootm": "Marvin McKinney",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "entrancBall": "665"
+    },
+    {
+      "id": 2,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20203.png",
+      "month": "Fevral",
+      "allExsam": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
+      "titleBootm": "Marvin McKin",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "entrancBall": "640"
+    },
+    {
+      "id": 3,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20203.png",
+      "allExsam": "Azərbaycan Dövlət İqtisad Universiteti",
+      "titleBootm": "Marvin Mcted",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "entrancBall": "545"
+    },
+    {
+      "id": 4,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20203.png",
+      "allExsam": "Azərbaycan Memarlıq və İnşaat Universiteti",
+      "titleBootm": "Marvin Michel",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "entrancBall": "645"
+    }
+  ],
+  "cartsNews": [
+    {
+      "id": 1,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20159.png",
+      "allExsam": "Dövlət İmtahan Mərkəzi tərəfind...",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "date": "20",
+      "month": "Aprel"
+    },
+    {
+      "id": 2,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20160.png",
+      "allExsam": "Dövlət İmtahan Mərkəzi tərəfind...",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "date": 20,
+      "month": "Mart"
+    },
+    {
+      "id": 3,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20161.png",
+      "allExsam": "Dövlət İmtahan Mərkəzi tərəfind...",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "date": 20,
+      "month": "Fevral"
+    },
+    {
+      "id": 4,
+      "img": "http://127.0.0.1:5501/img/Rectangle%20162%20(1).png",
+      "allExsam": "Dövlət İmtahan Mərkəzi tərəfind...",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "date": "20",
+      "month": "May"
+    }
+  ]
+}
